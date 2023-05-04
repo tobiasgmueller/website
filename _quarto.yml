@@ -23,13 +23,10 @@ website:
         text: Cartograph(bee)
       - icon: envelope
         href: mailto:mab677@cornell.edu
-        text: Contact
       - icon: github
         href: https://github.com/bcknr
-        text: GitHub
       - icon: twitter
         href: https://twitter.com/bucknermarka
-        text: Twitter
         
   page-footer:
     left: "\u00A9 2023, Mark Buckner"
