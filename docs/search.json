@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mark Buckner",
+    "section": "",
+    "text": "Mark A. Buckner, REHS/RS\n\n Global Change Ecology | Conservation | Distribution Modeling \n PhD Candidate, Cornell University \nCornell Atkinson Research Fellow"
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Espinoza AC, Urban-Mead KR, Buckner MA, Flórez-Gómez N, Kueneman JG, Danforth BN. Biology of Andrena (Callandrena sensu lato) asteris Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. Northeastern Naturalist. 2023; 29(4):474-491"
+  },
+  {
+    "objectID": "pubs.html#section-1",
+    "href": "pubs.html#section-1",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nBuckner MA, Danforth BN. Climate-driven range shifts of a rare specialist bee, Macropis nuda (Melittidae), and its host plant, Lysimachia ciliata (Primulaceae). Global Ecology and Conservation. 2022; 37:e02180. https://doi.org/10.1016/j.gecco.2022.e02180"
+  },
+  {
+    "objectID": "pubs.html#section-2",
+    "href": "pubs.html#section-2",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nMaeda J, Allum AJ, Mussallem JT, Froning CE, Haskins AH, Buckner MA, Miller CD, Kato TA. Ascorbic Acid 2-Glucoside Pretreatment Protects Cells from Ionizing Radiation, UVC, and Short Wavelength of UVB. Genes. 2020; 11(3):238. https://doi.org/10.3390/genes11030238"
+  },
+  {
+    "objectID": "pubs.html#section-3",
+    "href": "pubs.html#section-3",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\nCampbell MA, Łukasik P, Meyer MC, Buckner M, Simon C, Veloso C, Michalik A, McCutcheon JP. 2018. Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas. mBio. 2018; 9:e02104-18. https://doi.org/10.1128/mBio.02104-18"
+  },
+  {
+    "objectID": "pubs.html#section-4",
+    "href": "pubs.html#section-4",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nBuckner M. Cornell CALS Field Notes. Mark Buckner: Helping future generations understand and preserve native bees. 2021 June 23. https://cals.cornell.edu/news/2021/06/mark-buckner-helping-future-generations-understand-and-preserve-native-bees"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Mark Buckner",
+    "section": "",
+    "text": "Explore some of my recent and ongoing projects.\n\nClimate-driven range shifts in a rare specialist bee\nrlandfire: Tools for Accessing and Working with LANDFIRE in R\nBiology of a deep nesting aster specialist\nMason Bee Edu: A native bee education program\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate-driven range shifts of a specialist bee\n\n\n\n\n\n\n\nBiology of a deep nesting aster specialist\n\n\n\n\n\n\n\nrlandfire\n\n\n\n\n\n\n\nMason Bee EDU\n\n\n\n\n\nPrevoius\n\n\n\nNext"
+  },
+  {
+    "objectID": "projects.html#current-research",
+    "href": "projects.html#current-research",
+    "title": "Mark Buckner",
+    "section": "Current Research",
+    "text": "Current Research\nI use open data to model how the diversity and distributions of solitary bees may change under future climate conditions and in human-altered landscapes. By evaluating how species respond to the changing environment, I aim to provide resources for land management decision-making and biodiversity conservation.\nHistorically, insect populations lacked detailed, structured, and long-term surveys. The need for more data presents a challenge in prioritizing conservation action. By leveraging community science data and collection records with Species Distribution Modeling (SDM) methods, we can better evaluate how species may respond to a suite of interacting drivers of global change.\n\n  \n  \n  \n  \n\n Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot \n\nThe American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1,000 species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat.\n\n\n\n\n\n  \n  \n  \n\n Climate-driven range shifts in a rare specialist bee \nMost specialists bees collect pollen from species within the same family of plants. Macropis nuda only collects pollens and oils from a couple of species. Our recent Global Ecology and Conservation publication explored how this species and its primary host plant might respond to the changing climate."
+  },
+  {
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
+    "title": "Mark Buckner",
+    "section": "Other Projects",
+    "text": "Other Projects\n\n  \n  \n  \n\n rlandfire \nrlandfire is an 'in-development' R package for working with the Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version allows users to easily call the LANDFIRE Product Services API from within R. \n\n\n\nYou can install the development version of rlandfire from GitHub with:\n\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions in the GitHub repo.\nI am open to collaborators. If you are a LANDFIRE user and are interested in participating, please reach out!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Mark Buckner",
+    "section": "",
+    "text": "I am a PhD Candidate in the Danforth Lab at Cornell University, where I research global change ecology and native bee conservation using distribution modeling. My research interests stem from a desire to leverage existing historical records and community science programs to develop resources for conservation decision-making and prioritization in data-poor study systems. \n\nBorn and raised in Colorado's Front Range and educated at the University of Montana, I still question how I ended up out east. But even here, where I'm convinced you can walk little more than a mile before running into a road, I enjoy spending time in nature. When not modeling and mapping species distributions, I can often be found hiking, fly fishing, or  \"porcupining.\""
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Mark Buckner",
+    "section": "Education",
+    "text": "Education\n\nPhD Candidate\nCornell University, Dept. of Entomology\nAdvisor: Bryan N. Danforth\nDissertation working title: “Modeling Melittology: A spatial analysis of solitary bee conservation in the face of global change”\nConcentrations: Insect Ecology, Applied Ecology, Quantitative Ecology, Applied Statistics\n\n\nBachelor of Science in Biology\nUniversity of Montana, Missoula\nMay 2017\nMaj. Concentration: Ecology and Organismal Biology"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Mark Buckner",
+    "section": "",
+    "text": "Cornell University, Dept. of Entomology\nAdvisor: Bryan N. Danforth\nDissertation working title: “Modeling Melittology: A spatial analysis of solitary bee conservation in the face of global change”\nConcentrations: Insect Ecology, Applied Ecology, Quantitative Ecology, Applied Statistics\n\n\n\nUniversity of Montana, Missoula\nMay 2017\nMaj. Concentration: Ecology and Organismal Biology"
+  },
+  {
+    "objectID": "cv.html#research-and-professional-experience",
+    "href": "cv.html#research-and-professional-experience",
+    "title": "Mark Buckner",
+    "section": "Research and Professional Experience",
+    "text": "Research and Professional Experience\n\nGraduate Teaching Assistant | Aug. 2022 - Present\nCornell University, Dept. of Entomology\n\n\nGraduate Research Assistant | May 2021 - Aug. 2022\nCornell University, Dept. of Entomology\n\nCollect and process solitary bee brood cells for microbial community sequencing\nContribute to upcoming publications on bee nesting biology through habitat suitability modeling\n\n\n\nExtension and Outreach Assistant | Aug. 2020 - May 2021\nCornell University, Dept. of Entomology\n\nDeveloped and authored an educational program for high school biology students focused on wild bee\nbiology and conservation (https://crownbees.com/mason-bees-k-12-introduction)\nCollaborated with industry representatives, teachers, and outreach specialists\n\n\n\nEnvironmental Health Specialist II | Mar. 2018 – Sept. 2019\nMissoula City-County Health Department\n\nWork independently to perform risk-based inspections of food establishments, public\naccommodations, and pools to ensure compliance with state and local regulations\nApply microbiology and food safety knowledge to evaluate potential risks to public health and develop corrective actions to address violations and prevent disease\nRespond to questions, complaints, and provide education on food safety and sanitation to the public and licensed establishment operators.\nAct as Laboratory Manager for the department’s state-certified drinking water microbiology lab\nTest public and private well water for total coliform and E. coli contamination and perform heterotrophic plate counts (HPCs) of municipal water\nManage and develop the QA/QC program for new and existing protocols, and maintain compliance with state and federal regulations\nTrain new and experienced analysts on new techniques according to the Standard Methods for Drinking Water Analysis.\n\n\n\nProfessional Research Assistant | Aug. 2017 – Feb. 2018\nDepartment of Pathology, University of Colorado, Anschutz Medical Campus\nPrimary Investigator: Carol Sartorius\n\nResearched hormone receptor positive breast cancer using patient derived tumor xenografts (PDX)\nDeveloped methods using immunofluorescence and proximity ligation assays (PLA)\nMaintained and classified tumor lines using molecular and microscopic methods\n\n\n\nUndergraduate Research Assistant | Jan. 2016 – May 2017\nDivision of Biological Sciences, University of Montana\nPrimary Investigator: John McCutcheon\n\n\nUndergraduate Laboratory Technician | Sept. 2015 – Dec. 2015\nGenomics Core Facility, University of Montana\n\n\nUndergraduate Research Assistant | Aug. 2014 – Dec. 2014\nDepartment of Environmental and Radiological Health Sciences, Colorado State"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Mark Buckner",
+    "section": "Publications",
+    "text": "Publications\n\n2023\nEspinoza AC, Urban-Mead KR, Buckner MA, Flórez-Gómez N, Kueneman JG, Danforth BN. Biology of Andrena (Callandrena sensu lato) asteris Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. Northeastern Naturalist. 2023; 29(4):474-491\n\n\n2022\nBuckner MA, Danforth BN. Climate-driven range shifts of a rare specialist bee, Macropis nuda (Melittidae), and its host plant, Lysimachia ciliata (Primulaceae). Global Ecology and Conservation. 2022; 37:e02180. https://doi.org/10.1016/j.gecco.2022.e02180\n\n\n2020\nMaeda J, Allum AJ, Mussallem JT, Froning CE, Haskins AH, Buckner MA, Miller CD, Kato TA. Ascorbic Acid 2-Glucoside Pretreatment Protects Cells from Ionizing Radiation, UVC, and Short Wavelength of UVB. Genes. 2020; 11(3):238. https://doi.org/10.3390/genes11030238\n\n\n2018\nCampbell MA, Łukasik P, Meyer MC, Buckner M, Simon C, Veloso C, Michalik A, McCutcheon JP. 2018. Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas. mBio. 2018; 9:e02104-18. https://doi.org/10.1128/mBio.02104-18"
+  },
+  {
+    "objectID": "cv.html#extension-and-outreach",
+    "href": "cv.html#extension-and-outreach",
+    "title": "Mark Buckner",
+    "section": "Extension and Outreach",
+    "text": "Extension and Outreach\n\n2022\nBuckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator Education and Action Workshop. Workshop Presentation.\n\n\n2021\nBuckner M., Danforth B. Mason Bee Edu: Using live mason bees to teach insect biology, pollination,ecology, genetics, evolution, and conservation (and more!). November 2021. New York State Master Teacher Workshop. 1-Day workshop.\nBuckner M. Cornell CALS Field Notes. Mark Buckner: Helping future generations understand and preserve native bees. 2021 June 23. https://cals.cornell.edu/news/2021/06/mark-buckner-helping-future-generations-understand-and-preserve-native-bees\nBuckner M, Danforth B. Mason Bee Edu: Native Bee Education Program. https://crownbees.com/mason-bee-edu-introduction"
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "Mark Buckner",
+    "section": "Presentations",
+    "text": "Presentations\nBuckner M.A. Forecasting the impacts of global change on a bee biodiversity hotspot. October 20, 2022. Cornell Atkinson Center for Sustainability Graduate Symposia - Cornell University\nBuckner M.A., Danforth B.N. Climate-driven range shifts of a rare specialist bee and its host plant. October 04, 2022. Student Conference on Conservation Science, New York - Center for Biodiversity and Conservation (attendance: 40)\nBuckner M.A., Danforth B.N. The biology, ecology, and conservation of Macropis oil bees -- one of New York State’s most fascinating native pollinators. July 2021. Thursday Night Lecture Series - Huyck Preserve"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Mark Buckner",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nGraduate Teaching Assistant\nHoney Bees: Their intriguing biology and interactions with humans through the ages\nSpring 2022, ENTOM 2030/2031 - Cornell University, Dept. of Entomology"
+  },
+  {
+    "objectID": "cv.html#grants",
+    "href": "cv.html#grants",
+    "title": "Mark Buckner",
+    "section": "Grants",
+    "text": "Grants\n\nSustainable Biodiversity Fund - $7,200\nDec. 2021 - Cornell Atkinson’s Center for Sustainability, Cornell University\nProject Title: Modeling the combined effects of urbanization, solar development, and climate change on bee biodiversity in the Mojave and Sonoran Deserts of the American Southwest\n\n\nGriswold Endowment - $1,095\nApr. 2021 - Department of Entomology, Cornell University\nProject Title: Predicting range shifts in rare pollen specialist bees in response to environmental change\nResulting Publication: Buckner and Danforth 2022"
+  },
+  {
+    "objectID": "cv.html#select-professional-trainings",
+    "href": "cv.html#select-professional-trainings",
+    "title": "Mark Buckner",
+    "section": "Select Professional Trainings",
+    "text": "Select Professional Trainings\nThe Bee Course: Bee Taxonomy Workshop\nAug. 14-24, 2022; Southwestern Research Station, Portal, AZ.\nAAAS Catalyzing Advocacy in Science and Engineering (CASE) Workshop\nSept. 2021; AAAS, Virtual\nScience Communication Workshop\nApr. 2021; Cornell University, Virtual"
+  },
+  {
+    "objectID": "cv.html#relevant-coursework",
+    "href": "cv.html#relevant-coursework",
+    "title": "Mark Buckner",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\nCornell University\n\nGeographic Information Systems: Concepts and Applications (PLSCS 5200)\nIntroduction to Modeling in Ecology and Evolutionary Biology (BIOEE 7600)\nMultivariate Statistics for Environmental Applications (BEE 6310)\nReproducible and Collaborative Data Science in R (NTRES 6940)\nSpatial Modeling and Analysis (NTRES 6200)\nStructured Decision Making (NTRES 6601)\n\nUniversity of Montana\n\nComputer Data Analysis (STAT 457)\nConservation of Wildlife Populations (WILD 470)\nEntomology (BIOO 462)\nProgramming for biology (BIOB 488)"
+  },
+  {
+    "objectID": "cv.html#professional-licenses-and-certifications",
+    "href": "cv.html#professional-licenses-and-certifications",
+    "title": "Mark Buckner",
+    "section": "Professional Licenses and Certifications",
+    "text": "Professional Licenses and Certifications\nPublic Water Supply Lab Analyst - Microbiology\nSept. 2018 - State of Montana, Dept. of Public Health and Human Services\nRegister Environmental Health Specialist/Registered Sanitarian, REHS/RS\nApr. 2020 - National Environmental Health Association"
+  },
+  {
+    "objectID": "cv.html#professional-affiliations",
+    "href": "cv.html#professional-affiliations",
+    "title": "Mark Buckner",
+    "section": "Professional Affiliations",
+    "text": "Professional Affiliations\n\nEcological Forecasting Initiative\nEcological Society of America\nEntomological Society of America\nInternational Biogeography Society\nNational Environmental Health Association"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Mark Buckner",
+    "section": "",
+    "text": "Mason Bee Edu is a supplemental high school life science curriculum using mason bees as the focal species. Each of the nine modules introduces a key topic in bee biology ranging from bee phylogeny and diversity to the role of mason bees as pollinators to bee decline and conservation.\nThe program was created in partnership with high school science educators, education and outreach experts, and industry partners from the New York State Master Teachers Program, Museum of the Earth, and Crown Bees. Each module includes an “educate the educator” background section, a list of vocabulary and resources, and a classroom activity.\nMason Bee Edu is available free of charge at Crown Bees\n\nBuckner M, Danforth B. Mason Bee Edu: Native Bee Education Program. https://crownbees.com/mason-bee-edu-introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator Education and Action Workshop. Virtual Workshop Presentation.\n\n\n\nBuckner M., Danforth B. Mason Bee Edu: Using live mason bees to teach insect biology, pollination,ecology, genetics, evolution, and conservation (and more!). November 2021. New York State Master Teacher Workshop. 1-Day workshop."
+  }
+]
