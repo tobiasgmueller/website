@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-N8JCQBV6PD"
   title: "Mark Buckner"
   navbar:
     left:
