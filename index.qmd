@@ -1,7 +1,36 @@
 ---
-title: "bcknr.github.io"
+title: ""
+execute:
+  echo: false
+format: 
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: medium
 ---
 
-This is a Quarto website.
+```{=html}
+<style>
+  body {
+  background-image: url(main_photo_crop.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+}
+  
+</style>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+```
+
+```{=html}
+<div class="box1">
+<h1 style="font-size: 3em; color: #ffffff;"> Mark A. Buckner, REHS/RS</h1>
+
+<h5 style="font-size: 1em; color: #ffffff;"> <i>Global Change Ecology</i> | <i>Conservation</i> | <i>Distribution Modeling</i> </h5>
+<h3 style = "color: #ffffff;"> PhD Candidate, Cornell University <br>
+Cornell Atkinson Research Fellow</h3>
+
+<br>
+</div>
+```
+
