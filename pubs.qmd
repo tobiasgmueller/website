@@ -1,0 +1,34 @@
+---
+title: "Publications"
+editor: visual
+format: 
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: medium
+---
+
+## **2023**
+
+Espinoza AC, Urban-Mead KR, **Buckner MA**, Flórez-Gómez N, Kueneman JG, Danforth BN. Biology of *Andrena* (*Callandrena* sensu lato) *asteris* Robertson (Hymenoptera: Andrenidae), an Eastern Aster Specialist that Makes a Very Deep Nest. *Northeastern Naturalist*. 2023; 29(4):474-491
+
+## **2022**
+
+**Buckner MA**, Danforth BN. Climate-driven range shifts of a rare specialist bee, *Macropis nuda* (Melittidae), and its host plant, *Lysimachia ciliata* (Primulaceae). *Global Ecology and Conservation*. 2022; 37:e02180. <https://doi.org/10.1016/j.gecco.2022.e02180>
+
+## **2020**
+
+Maeda J, Allum AJ, Mussallem JT, Froning CE, Haskins AH, **Buckner MA**, Miller CD, Kato TA. Ascorbic Acid 2-Glucoside Pretreatment Protects Cells from Ionizing Radiation, UVC, and Short Wavelength of UVB. *Genes*. 2020; 11(3):238. <https://doi.org/10.3390/genes11030238>
+
+## **2018**
+
+Campbell MA, Łukasik P, Meyer MC, **Buckner M**, Simon C, Veloso C, Michalik A, McCutcheon JP. 2018. Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas. *mBio*. 2018; 9:e02104-18. <https://doi.org/10.1128/mBio.02104-18>
+
+\
+
+# Media
+
+## 2021
+
+**Buckner M**. *Cornell CALS Field Notes. Mark Buckner: Helping future generations understand and preserve native bees.* 2021 June 23. <https://cals.cornell.edu/news/2021/06/mark-buckner-helping-future-generations-understand-and-preserve-native-bees>

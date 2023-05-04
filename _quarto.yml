@@ -1,19 +1,49 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "bcknr.github.io"
+  title: "Mark Buckner"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: about
+      - href: pubs.qmd
+        text: Publications
+      - href: outreach.qmd
+        text: Outreach
+      # - href: cv.qmd
+      #   text: CV
+      - href: projects.qmd
+        text: Research
+        
+    right:
+      - href: blog/blog.qmd
+        text: Cartograph(bee)
+      - icon: envelope
+        href: mailto:mab677@cornell.edu
+        text: Contact
+      - icon: github
+        href: https://github.com/bcknr
+        text: GitHub
+      - icon: twitter
+        href: https://twitter.com/bucknermarka
+        text: Twitter
+        
+  page-footer:
+    left: "\u00A9 2023, Mark Buckner"
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: lux
+      dark: [lux, theme-dark.scss]
     css: styles.css
     toc: true
+    grid:
+      sidebar-width: 100px
+      body-width: 1050px
+      margin-width: 300px
 
 
 

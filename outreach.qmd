@@ -1,0 +1,38 @@
+---
+editor: visual
+format: 
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: medium
+---
+
+# Mason Bee Edu
+
+Mason Bee Edu is a supplemental high school life science curriculum using mason bees as the focal species. Each of the nine modules introduces a key topic in bee biology ranging from bee phylogeny and diversity to the role of mason bees as pollinators to bee decline and conservation.
+
+The program was created in partnership with high school science educators, education and outreach experts, and industry partners from the New York State Master Teachers Program, Museum of the Earth, and Crown Bees. Each module includes an "educate the educator" background section, a list of vocabulary and resources, and a classroom activity.
+
+Mason Bee Edu is available free of charge at [Crown Bees](https://crownbees.com/mason-bee-edu-introduction)
+
+------------------------------------------------------------------------
+
+**Buckner M**, Danforth B. Mason Bee Edu: Native Bee Education Program. <https://crownbees.com/mason-bee-edu-introduction>
+
+\
+\
+
+#### Funding and Partners {.center}
+
+![](images/image-531546476.png){fig-align="center" width="380"}
+
+
+## Past Workshops
+#### 2022
+
+Buckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator Education and Action Workshop. Virtual Workshop Presentation.
+
+#### 2021
+
+Buckner M., Danforth B. Mason Bee Edu: Using live mason bees to teach insect biology, pollination,ecology, genetics, evolution, and conservation (and more!). November 2021. New York State Master Teacher Workshop. 1-Day workshop.

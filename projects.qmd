@@ -1,0 +1,154 @@
+---
+title: ""
+execute:
+  echo: false
+format: 
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: medium
+---
+
+::: {.grid .column-page}
+::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
+
+# Research and Current Projects
+
+Explore some of my recent and ongoing projects.
+
+-   Climate-driven range shifts in a rare specialist bee
+
+-   rlandfire: Tools for Accessing and Working with LANDFIRE in R 
+
+-   Biology of a deep nesting aster specialist
+
+-   Mason Bee Edu: A native bee education program
+
+:::
+
+```{r}
+#| classes: '.g-col-lg-6 .g-col-12 .g-col-md-12'
+
+source("carousel.R")
+
+carousel("projects-carousel", 5000, yaml.load_file("carousel.yml"))
+
+```
+:::
+
+::: {.grid .column-page}
+::: {.g-col-12}
+## Current Research
+
+I use open data to model how the diversity and distributions of solitary bees may change under future climate conditions and in human-altered landscapes. By evaluating how species respond to the changing environment, I aim to provide resources for land management decision-making and biodiversity conservation.
+
+Historically, insect populations lacked detailed, structured, and long-term surveys. The need for more data presents a challenge in prioritizing conservation action. By leveraging community science data and collection records with Species Distribution Modeling (SDM) methods, we can better evaluate how species may respond to a suite of interacting drivers of global change.
+
+```{=html}
+<div>
+  <div style="float: left; position: relative; top: 10px; padding:10px;">
+  <img src="./images/main_map2.png"
+       width = "150" />
+  <br>
+  </div>
+<br>
+<h4> Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot </h4>
+
+The American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1,000 species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat.
+
+</div>
+
+<br>
+```
+
+
+```{=html}
+<div>
+  <div style="float: left; position: relative; top: 30px; padding:10px;">
+  <img src="./images/mnuda_sdm.jpg"
+       width = "150" />
+  </div>
+<br>
+<h4> Climate-driven range shifts in a rare specialist bee </h4>
+Most specialists bees collect pollen from species within the same family of plants. <i>Macropis nuda</i> only collects pollens and oils from a couple of species. Our recent Global Ecology and Conservation <a href="https://doi.org/10.1016/j.gecco.2022.e02180">publication</a> explored how this species and its primary host plant might respond to the changing climate. 
+</div>
+
+<br>
+```
+
+
+
+## Other Projects
+
+```{=html}
+<div>
+  <div style="float: left; position: relative; top: 10px; padding:10px;">
+  <img src="./images/rlandfire.png"
+       width = "150" />
+  </div>
+<br>
+<h4> rlandfire </h4>
+<code>rlandfire</code> is an 'in-development' R package for working with the Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version allows users to easily call the LANDFIRE Product Services API from within R. 
+</div>
+
+<br>
+```
+
+You can install the development version of rlandfire from [GitHub](https://github.com/bcknr/rlandfire) with:
+
+```{r}
+#| eval: false
+#| echo: true
+# install.packages("devtools")
+devtools::install_github("bcknr/rlandfire")
+```
+Please submit all bug reports, feature requests, or questions in the [GitHub repo](https://github.com/bcknr/rlandfire).
+
+I am open to collaborators. If you are a LANDFIRE user and are interested in participating, please reach out!
+
+[![](https://img.shields.io/github/license/bcknr/rlandfire?color=green&logo=https%253A%252F%252Fwww.gnu.org%252Flicenses%252Fgpl-3.0.html)](https://www.gnu.org/licenses/gpl-3.0.html)
+:::
+:::
+```{=html}
+
+<style>
+
+.headline p {
+
+  margin: 0;
+
+  padding-bottom: 0.2rem;
+
+}
+
+
+.carousel.card {
+
+  padding-top: 2em;
+
+}
+
+.carousel img {
+
+  width: 70%;
+
+  margin-bottom: 110px;
+
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+
+  margin-bottom: 110px;
+
+}
+
+.carousel-caption {
+
+  padding-top: 1em;
+
+}
+
+
+</style>
+```

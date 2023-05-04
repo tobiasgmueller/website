@@ -1,5 +1,50 @@
 ---
-title: "About"
+title: ""
+editor: visual
+format: 
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: medium
 ---
 
-About this site
+```{=html}
+<div>
+  <h3> Mark Buckner </h3>
+  <div style="float: left; position: relative; top: 0px; padding:20px;">
+  <img src="./images/photo.jpg"
+       width = "450" />
+  <br><br>
+  </div>
+
+<h4> About Me </h4>
+<p>
+I am a PhD Candidate in the Danforth Lab at Cornell University, where I research global change ecology and native bee conservation using distribution modeling. My research interests stem from a desire to leverage existing historical records and community science programs to develop resources for conservation decision-making and prioritization in data-poor study systems. 
+<br>
+Born and raised in Colorado's Front Range and educated at the University of Montana, I still question how I ended up out east. But even here, where I'm convinced you can walk little more than a mile before running into a road, I enjoy spending time in nature. When not modeling and mapping species distributions, I can often be found hiking, fly fishing, or <span class="hovertext" data-hover="Looking for porcupine"> "porcupining."</span>
+</p>
+</div>
+
+<br>
+```
+
+## Education
+
+### PhD Candidate
+
+***Cornell University, Dept. of Entomology***
+
+*Advisor:* Bryan N. Danforth
+
+*Dissertation working title:* "Modeling Melittology: A spatial analysis of solitary bee conservation in the face of global change"
+
+*Concentrations:* Insect Ecology, Applied Ecology, Quantitative Ecology, Applied Statistics
+
+### Bachelor of Science in Biology
+
+**University of Montana, Missoula**
+
+**May 2017**
+
+*Maj. Concentration:* Ecology and Organismal Biology
