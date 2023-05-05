@@ -19,14 +19,14 @@ website:
         text: Research
         
     right:
-      - href: blog/blog.qmd
-        text: Cartograph(bee)
+      # - href: blog/blog.qmd
+      #   text: Cartograph(bee)
       - icon: envelope
         href: mailto:mab677@cornell.edu
       - icon: github
         href: https://github.com/bcknr
       - icon: twitter
-        href: https://twitter.com/bucknermarka
+        href: https://twitter.com/cartographbee
         
   page-footer:
     left: "\u00A9 2023, Mark Buckner"
