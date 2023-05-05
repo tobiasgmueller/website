@@ -16,6 +16,8 @@ format:
   background-image: url(main_photo_crop.jpg);
   background-size: cover; 
   background-repeat: no-repeat;
+  background-postion: center center;
+  background-attachment: fixed;
 }
   
 </style>

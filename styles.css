@@ -4,10 +4,11 @@
 }
 
 .box1 {
-  position: fixed;
+  position: flex;
+  flex-wrap: wrap;
   top: 150px;
   left: -100px;
-  width: 875px;
+  width: 70%;
   padding: 20px;
   color: rgb(255,255,255);
   background-color: rgba(0,0,0, 0);
