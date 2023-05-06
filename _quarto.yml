@@ -30,6 +30,9 @@ website:
         
   page-footer:
     left: "\u00A9 2023, Mark Buckner"
+    right: 
+      - icon: github
+        href: https://github.com/bcknr/bcknr
 
 format:
   html:

@@ -106,7 +106,7 @@ devtools::install_github("bcknr/rlandfire")
 ```
 Please submit all bug reports, feature requests, or questions in the [GitHub repo](https://github.com/bcknr/rlandfire).
 
-I am open to collaborators. If you are a LANDFIRE user and are interested in participating, please reach out!
+I am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!
 
 [![](https://img.shields.io/github/license/bcknr/rlandfire?color=green&logo=https%253A%252F%252Fwww.gnu.org%252Flicenses%252Fgpl-3.0.html)](https://www.gnu.org/licenses/gpl-3.0.html)
 :::
