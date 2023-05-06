@@ -5,6 +5,7 @@ project:
 website:
   google-analytics: "G-N8JCQBV6PD"
   title: "Mark Buckner"
+  site-url: "https://markabuckner.com"
   navbar:
     left:
       - href: about.qmd
