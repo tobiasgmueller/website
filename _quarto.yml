@@ -22,6 +22,8 @@ website:
     right:
       # - href: blog/blog.qmd
       #   text: Cartograph(bee)
+      - href: dsw_poster.qmd
+        text: Desert Bees Poster
       - icon: envelope
         href: mailto:mab677@cornell.edu
       - icon: github

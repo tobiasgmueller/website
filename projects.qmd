@@ -55,7 +55,7 @@ Historically, insect populations lacked detailed, structured, and long-term surv
 <br>
 <h4> Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot </h4>
 
-The American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1,000 species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat.
+The American Southwest is a hotspot for rapid climate change, land conversion, and bee biodiversity. Home to nearly 1/4 of US bee species, we are using Joint SDMs to evaluate how global change might impact species richness in the region and how to mitigate the threat. Click <a href="/dsw_poster.html">here</a> to view my recent poster on this project.
 
 </div>
 
@@ -104,7 +104,7 @@ You can install the development version of rlandfire from [GitHub](https://githu
 # install.packages("devtools")
 devtools::install_github("bcknr/rlandfire")
 ```
-Please submit all bug reports, feature requests, or questions in the [GitHub repo](https://github.com/bcknr/rlandfire).
+Please submit all bug reports, feature requests, or questions in the [GitHub repo](https://github.com/bcknr/rlandfire/issues).
 
 I am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!
 

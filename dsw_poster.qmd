@@ -1,0 +1,41 @@
+---
+title: ""
+execute:
+  echo: false
+format: 
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    fontsize: medium
+---
+
+```{=html}
+<div>
+  <div style="float: left; position: relative; top: 10px; padding:10px;">
+  <img src="./images/main_map2.png"
+       width = "150" />
+  <br>
+  </div>
+<br>
+<h1> Forecasting the Impacts of Global Change on a Bee Biodiversity Hotspot </h1>
+<br>
+</div>
+```
+
+Thank you for visiting my poster! To view the full-sized digital poster click on the image below.
+
+If you have any questions about this project, any of my other work, or are interested in collaborating, email me at [mab677@cornell.edu](mailto:mab677@cornell.edu). I look forward to hearing from you! To learn more about me and some of my other ongoing projects, feel free to explore the [About](/about.html), and [Research](/projects.html) pages of this website.
+\
+\
+```{=html}
+<img src="./images/buckner_poster.png" alt="Conference poster" class = "responsive"
+     width = 90%
+     onclick="window.open(this.src, '_blank');"/>
+<br>
+<br>
+<h3> Timelapse: Las Vegas Urban Sprawl (1980-2020) </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zw4CCLmMJIg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+```
+
