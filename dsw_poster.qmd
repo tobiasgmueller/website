@@ -23,15 +23,15 @@ format:
 </div>
 ```
 
-Thank you for visiting my poster! To view the full-sized digital poster click on the image below.
+Thank you for visiting my poster! To view the full-sized digital poster click [here](./images/buckner_poster.png) or on the image below.
 
 If you have any questions about this project, any of my other work, or are interested in collaborating, email me at [mab677@cornell.edu](mailto:mab677@cornell.edu). I look forward to hearing from you! To learn more about me and some of my other ongoing projects, feel free to explore the [About](/about.html), and [Research](/projects.html) pages of this website.
 \
 \
 ```{=html}
-<img src="./images/buckner_poster.png" alt="Conference poster" class = "responsive"
+<img src="./images/buckner_poster_low.png" alt="Conference poster" class = "responsive"
      width = 90%
-     onclick="window.open(this.src, '_blank');"/>
+     onclick="window.open('./images/buckner_poster.png', '_blank');"/>
 <br>
 <br>
 <h3> Timelapse: Las Vegas Urban Sprawl (1980-2020) </h3>
