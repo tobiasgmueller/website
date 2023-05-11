@@ -109,6 +109,17 @@ Please submit all bug reports, feature requests, or questions in the [GitHub rep
 I am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!
 
 [![](https://img.shields.io/github/license/bcknr/rlandfire?color=green&logo=https%253A%252F%252Fwww.gnu.org%252Flicenses%252Fgpl-3.0.html)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+```{=html}
+<h5> Featured in the LANDFIRE Office Hours  </h5>
+Early in the development process, <code>rlandfire</code> was featured in the LANDFIRE Office Hours as part of a broader discussion on using LANDFIRE and R!
+<br><br>
+<div class="embed-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Go5foMcOG-c" title="YouTube video player" frameborder="0" allow="accelerometer;     
+  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
 :::
 :::
 ```{=html}

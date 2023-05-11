@@ -67,7 +67,7 @@
     "href": "projects.html#other-projects",
     "title": "Mark Buckner",
     "section": "Other Projects",
-    "text": "Other Projects\n\n  \n  \n  \n\n rlandfire \nrlandfire is an 'in-development' R package for working with the Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version allows users to easily call the LANDFIRE Product Services API from within R. \n\n\n\nYou can install the development version of rlandfire from GitHub with:\n\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions in the GitHub repo.\nI am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!"
+    "text": "Other Projects\n\n  \n  \n  \n\n rlandfire \nrlandfire is an 'in-development' R package for working with the Landscape Fire and Resource Management Planning Tools' (LANDFIRE) geospatial layers in R. The current version allows users to easily call the LANDFIRE Product Services API from within R. \n\n\n\nYou can install the development version of rlandfire from GitHub with:\n\n# install.packages(\"devtools\")\ndevtools::install_github(\"bcknr/rlandfire\")\n\nPlease submit all bug reports, feature requests, or questions in the GitHub repo.\nI am open to contributors. If you are a LANDFIRE user and are interested in participating, please reach out!\n\n\n\n\n\n Featured in the LANDFIRE Office Hours  \nEarly in the development process, rlandfire was featured in the LANDFIRE Office Hours as part of a broader discussion on using LANDFIRE and R!"
   },
   {
     "objectID": "about.html",
@@ -166,5 +166,12 @@
     "title": "Mark Buckner",
     "section": "",
     "text": "Mason Bee Edu is a supplemental high school life science curriculum using mason bees as the focal species. Each of the nine modules introduces a key topic in bee biology ranging from bee phylogeny and diversity to the role of mason bees as pollinators to bee decline and conservation.\nThe program was created in partnership with high school science educators, education and outreach experts, and industry partners from the New York State Master Teachers Program, Museum of the Earth, and Crown Bees. Each module includes an “educate the educator” background section, a list of vocabulary and resources, and a classroom activity.\nMason Bee Edu is available free of charge at Crown Bees\n\nBuckner M, Danforth B. Mason Bee Edu: Native Bee Education Program. https://crownbees.com/mason-bee-edu-introduction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator Education and Action Workshop. Virtual Workshop Presentation.\n\n\n\nBuckner M., Danforth B. Mason Bee Edu: Using live mason bees to teach insect biology, pollination,ecology, genetics, evolution, and conservation (and more!). November 2021. New York State Master Teacher Workshop. 1-Day workshop."
+  },
+  {
+    "objectID": "outreach.html#introduction-to-git-and-github-in-r",
+    "href": "outreach.html#introduction-to-git-and-github-in-r",
+    "title": "Mark Buckner",
+    "section": "Introduction to Git and Github in R",
+    "text": "Introduction to Git and Github in R\nThis workshop provided an introduction to using Git and GitHub in Rstudio. The workshop covers installation, basic workflows, collaboration, and how Git can help you recover from “disasters.” The in-person/zoom workshop was held in February 2023—the material covered is available on the workshop’s website."
   }
 ]

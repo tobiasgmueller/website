@@ -28,7 +28,7 @@ Mason Bee Edu is available free of charge at [Crown Bees](https://crownbees.com/
 ![](images/image-531546476.png){fig-align="center" width="380"}
 
 
-## Past Workshops
+## Past MBE Workshops
 #### 2022
 
 Buckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator Education and Action Workshop. Virtual Workshop Presentation.
@@ -36,3 +36,9 @@ Buckner M. An Introduction to Mason Bee Edu. May 2022. NCIPM: Youth Pollinator E
 #### 2021
 
 Buckner M., Danforth B. Mason Bee Edu: Using live mason bees to teach insect biology, pollination,ecology, genetics, evolution, and conservation (and more!). November 2021. New York State Master Teacher Workshop. 1-Day workshop.
+
+# Other Outreach Projects
+## Introduction to Git and Github in R
+
+This workshop provided an introduction to using Git and GitHub in Rstudio. The workshop covers installation, basic workflows, collaboration, and how Git can help you recover from "disasters." The in-person/zoom workshop was held in February 2023—the material covered is available on the workshop's [website](https://bcknr.github.io/IntroToGit/).
+
