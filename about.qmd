@@ -18,7 +18,7 @@ format:
 <h3> Mark Buckner </h3>
 <h4> About Me </h4>
 <p>
-I am a PhD Candidate in the Danforth Lab at Cornell University, where I research global change ecology and native bee conservation using distribution modeling. My research interests stem from a desire to leverage existing historical records and community science programs to develop resources for conservation decision-making and prioritization in data-poor study systems. 
+I am a PhD Candidate in the Danforth Lab at Cornell University, where I research global change ecology and native bee conservation using distribution modeling. My research focus stems from an interest in leveraging existing historical records and community science programs to develop resources for conservation decision-making and prioritization in data-poor study systems. 
 <br><br>
 Born and raised in Colorado's Front Range and educated at the University of Montana, I still question how I ended up out east. But even here, where I'm convinced you can walk little more than a mile before running into a road, I enjoy spending time in nature. When not modeling and mapping species distributions, I can often be found hiking, fly fishing, or "<span class="hovertext" data-hover="Looking for porcupine">porcupining</span>."
 </p>
